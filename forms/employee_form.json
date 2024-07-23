@@ -1,0 +1,40 @@
+{
+"title": "Employee Onboarding Form",
+"description": Form to capture information from new employees during the onboarding process.",
+"fields": [
+{
+"id": "full name",
+"type": "text",
+"label": "Full Name",
+"required": true
+},
+{
+"id": "email_address",
+"type": "text",
+"label": "Email Address",
+"required": true
+},
+{
+"id": "department",
+"type": "choice",
+"label": "Department",
+"required": true,
+"choices": [
+"HR", "IT", "Sales", "Marketing"
+]
+},
+{
+"id": "position",
+"type": "text",
+"label": "Position",
+"required": true
+},
+{
+"id": "start_date",
+"type": "date",
+"label": "Start_date",
+"required": true
+}
+]
+}
+

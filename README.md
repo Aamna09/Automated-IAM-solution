@@ -17,5 +17,5 @@ This project is an automated Identity and Access Management (IAM) solution desig
 ## Setup Instructions
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/your-username/Automated-IAM-solution.git
+   git clone https://github.com/Aamna09/Automated-IAM-solution.git
    cd Automated-IAM-solution

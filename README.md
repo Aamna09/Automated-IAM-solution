@@ -29,13 +29,11 @@ This form is used to capture essential information from new employees during the
 
 Refer to the `forms/employee_form.json` file for the detailed structure.
 
-## Automated Workflow
-
-### Employee Onboarding Automated Workflow
+## Workflows
 This repository contains an automated workflow for employee onboarding, which is implemented using Power Automate. The workflow is provided as a zipped file for easy import into your Power Automate environment.
 
 ## Azure AD Setup
-
+Refer to the guidebook in the repository
 ### Create Groups
 - Go to the Azure Portal.
 - Navigate to Azure Active Directory.
